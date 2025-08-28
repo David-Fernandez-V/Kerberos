@@ -1,4 +1,4 @@
-# Kerberos ()
+# Kerberos
 ## Proyecto Modular
 Este repositorio contiene todo el código relacionado con la elaboración de la AppWeb de Kerberos.
 Se contienen 3 carpetas para:
